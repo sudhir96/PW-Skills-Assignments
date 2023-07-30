@@ -1,3 +1,3 @@
-# PW-Skills-Python-Assignment-1
+# PW-Skills-Python-Assignments
 Learning Data-Science-masters-2.0 with PW-Skills 
 
